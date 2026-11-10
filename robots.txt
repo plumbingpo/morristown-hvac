@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://morristownhvacco.com/sitemap.xml
